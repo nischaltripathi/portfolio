@@ -1,0 +1,9 @@
+.projects{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    right: 1%;
+}
+.projects :hover{
+    cursor: auto;
+}
