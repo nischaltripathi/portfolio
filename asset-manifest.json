@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.9be988d1.chunk.css",
-    "main.js": "/portfolio/static/js/main.b4b06007.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.b4b06007.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.eb3e1c76.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.eb3e1c76.js.map",
-    "static/js/2.bd84591e.chunk.js": "/portfolio/static/js/2.bd84591e.chunk.js",
-    "static/js/2.bd84591e.chunk.js.map": "/portfolio/static/js/2.bd84591e.chunk.js.map",
-    "static/js/3.09dbd1e3.chunk.js": "/portfolio/static/js/3.09dbd1e3.chunk.js",
-    "static/js/3.09dbd1e3.chunk.js.map": "/portfolio/static/js/3.09dbd1e3.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.c1e4899c.chunk.css",
+    "main.js": "/portfolio/static/js/main.49dd9d3a.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.49dd9d3a.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.c42de898.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.c42de898.js.map",
+    "static/js/2.a38672a6.chunk.js": "/portfolio/static/js/2.a38672a6.chunk.js",
+    "static/js/2.a38672a6.chunk.js.map": "/portfolio/static/js/2.a38672a6.chunk.js.map",
+    "static/js/3.fe9515fa.chunk.js": "/portfolio/static/js/3.fe9515fa.chunk.js",
+    "static/js/3.fe9515fa.chunk.js.map": "/portfolio/static/js/3.fe9515fa.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.9be988d1.chunk.css.map": "/portfolio/static/css/main.9be988d1.chunk.css.map",
-    "static/js/2.bd84591e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.bd84591e.chunk.js.LICENSE.txt",
+    "static/css/main.c1e4899c.chunk.css.map": "/portfolio/static/css/main.c1e4899c.chunk.css.map",
+    "static/js/2.a38672a6.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a38672a6.chunk.js.LICENSE.txt",
     "static/media/RosterWebsite.6710cfbb.jpg": "/portfolio/static/media/RosterWebsite.6710cfbb.jpg",
     "static/media/amazon-clone.80509f40.jpg": "/portfolio/static/media/amazon-clone.80509f40.jpg",
     "static/media/App.css": "/portfolio/static/media/background.0d31ca63.jpg",
@@ -30,9 +30,9 @@
     "static/media/wordpressLogo.8575a0e8.png": "/portfolio/static/media/wordpressLogo.8575a0e8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb3e1c76.js",
-    "static/js/2.bd84591e.chunk.js",
-    "static/css/main.9be988d1.chunk.css",
-    "static/js/main.b4b06007.chunk.js"
+    "static/js/runtime-main.c42de898.js",
+    "static/js/2.a38672a6.chunk.js",
+    "static/css/main.c1e4899c.chunk.css",
+    "static/js/main.49dd9d3a.chunk.js"
   ]
 }
